@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%">
+  <img src="assets/banner.svg" alt="IamGoogel banner" width="100%">
 </p>
 
 <h1 align="center">IamGoogel</h1>
-<p align="center">Physics student · University of Göttingen</p>
+<p align="center">Physics student · Plasma &amp; Quantum Physics</p>
 
 ## About
 
-Physics student at the **University of Göttingen**. I enjoy understanding how nature works from the smallest scales to the hottest states of matter, and building the code and tools to explore it.
+Physics student with a focus on plasma and quantum physics. I enjoy understanding how nature works from the smallest scales to the hottest states of matter, and building the code and tools to explore it.
 
 ## Research interests
 
